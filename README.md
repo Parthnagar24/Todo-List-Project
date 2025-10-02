@@ -11,7 +11,7 @@ A simple, elegant Task Manager (Todo List) web app built with **HTML, CSS, and J
 
 ## Demo
 
-[Live Demo on GitHub Pages](https://parthnagar24.github.io/Todo-List-Project/)
+ https://parthnagar24.github.io/Todo-List-Project/
 
 ## How to Use
 
@@ -25,6 +25,4 @@ A simple, elegant Task Manager (Todo List) web app built with **HTML, CSS, and J
 
 *(This shows the dark mode with no tasks added.)*
 
-## License
 
-MIT
